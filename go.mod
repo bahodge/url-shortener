@@ -3,6 +3,8 @@ module github.com/bahodge/url-shortener
 go 1.17
 
 require (
+	github.com/go-chi/chi v1.5.4 // indirect
+	github.com/go-redis/redis v6.15.9+incompatible // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
